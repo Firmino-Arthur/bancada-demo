@@ -1,0 +1,15 @@
+{
+  "name": "Bancada do corretor",
+  "short_name": "Bancada",
+  "description": "CRM do corretor de plano de saúde, com cotação pronta e o Claude Code trabalhando junto.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F5F4",
+  "theme_color": "#1B1B1B",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "marca/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "marca/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
